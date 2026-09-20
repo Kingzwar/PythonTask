@@ -1,0 +1,5 @@
+print(sum)
+print(sum / 3)
+print(number_one * number_two * number_three)
+print("Largest: ", largest)
+print("Smallest: ", smallest)
